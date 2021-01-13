@@ -254,6 +254,7 @@ public class Consumer {
 
 ## 参考链接
 [Spring Boot 集成kafka](https://juejin.cn/post/6844903969265975309)
+
 [Spring 集成kafka](https://www.cnblogs.com/caoweixiong/p/12987997.html)
 
 
