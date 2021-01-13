@@ -112,7 +112,7 @@ start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.s
 
 在spring boot 中使用spring-kafka 操作kafka集群：
 
-[application.properties]()
+[application.properties](https://github.com/brickGodMan/kafka-demo/tree/main/src/main/resources/application.properties)
 ```properties
 #kafka producer
 kafka.producer.bootstrapServers=192.168.247.130:9001,192.168.247.130:9002,192.168.247.130:9003
